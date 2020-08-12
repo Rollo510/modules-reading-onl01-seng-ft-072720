@@ -9,6 +9,9 @@ class Dancer
   extend MetaDancing
 end
 
+<<<<<<< HEAD
 class Kid
   extend MetaDancing
 end
+=======
+>>>>>>> b72b57ae460946aab615b5fbab253e9dd66a547b
